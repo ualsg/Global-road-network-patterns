@@ -1,0 +1,145 @@
+No.,city,city_ascii,lat,lng,country,iso2,iso3,admin_name,capital,population,CONTINENT
+1,Algiers,Algiers,36.7764,3.0586,Algeria,DZ,DZA,Alger,primary,3415811,Africa
+2,Luanda,Luanda,-8.8383,13.2344,Angola,AO,AGO,Luanda,primary,8417000,Africa
+3,Kinshasa,Kinshasa,-4.3233,15.3081,Congo (Kinshasa),CD,COD,Kinshasa,primary,13528000,Africa
+4,Abidjan,Abidjan,5.3364,-4.0267,Cte D’Ivoire,CI,CIV,Abidjan,primary,4980000,Africa
+5,Alexandria,Alexandria,31.2,29.9167,Egypt,EG,EGY,Al Iskandarīyah,admin,4870000,Africa
+6,Cairo,Cairo,30.0561,31.2394,Egypt,EG,EGY,Al Qāhirah,primary,19372000,Africa
+7,Addis Ababa,Addis Ababa,9.0272,38.7369,Ethiopia,ET,ETH,dīs beba,primary,3041002,Africa
+8,Nairobi,Nairobi,-1.2864,36.8172,Kenya,KE,KEN,Nairobi City,primary,5545000,Africa
+9,Casablanca,Casablanca,33.5992,-7.62,Morocco,MA,MAR,Casablanca-Settat,admin,4370000,Africa
+10,Kano,Kano,12,8.5167,Nigeria,NG,NGA,Kano,admin,2828861,Africa
+11,Johannesburg,Johannesburg,-26.2044,28.0416,South Africa,ZA,ZAF,Gauteng,admin,4434827,Africa
+12,Khartoum,Khartoum,15.6031,32.5265,Sudan,SD,SDN,Khartoum,primary,7282000,Africa
+13,Omdurman,Omdurman,15.6835,32.4629,Sudan,SD,SDN,Khartoum,,2805396,Africa
+14,Dar es Salaam,Dar es Salaam,-6.8,39.2833,Tanzania,TZ,TZA,Dar es Salaam,primary,6698000,Africa
+15,Dhaka,Dhaka,23.7289,90.3944,Bangladesh,BD,BGD,Dhaka,primary,15443000,Asia
+16,Baoding,Baoding,38.8671,115.4845,China,CN,CHN,Hebei,,11860000,Asia
+17,Beijing,Beijing,39.905,116.3914,China,CN,CHN,Beijing,primary,2963199,Asia
+18,Changchun,Changchun,43.9,125.2,China,CN,CHN,Jilin,admin,7674439,Asia
+19,Changsha,Changsha,28.1987,112.9709,China,CN,CHN,Hunan,admin,8394500,Asia
+20,Chengdu,Chengdu,30.66,104.0633,China,CN,CHN,Sichuan,admin,11309000,Asia
+21,Chongqing,Chongqing,29.5628,106.5528,China,CN,CHN,Chongqing,admin,7739000,Asia
+22,Dongguan,Dongguan,23.0475,113.7493,China,CN,CHN,Guangdong,minor,7981000,Asia
+23,Fuzhou,Fuzhou,26.0769,119.2917,China,CN,CHN,Fujian,admin,5245000,Asia
+24,Ganzhou,Ganzhou,25.8292,114.9336,China,CN,CHN,Jiangxi,minor,8677600,Asia
+25,Guangzhou,Guangzhou,23.1288,113.259,China,CN,CHN,Guangdong,admin,10979000,Asia
+26,Hangzhou,Hangzhou,30.25,120.1675,China,CN,CHN,Zhejiang,admin,6446000,Asia
+27,Hefei,Hefei,31.8639,117.2808,China,CN,CHN,Anhui,admin,7457027,Asia
+28,Jinan,Jinan,36.6667,116.9833,China,CN,CHN,Shandong,admin,7967400,Asia
+29,Nanchang,Nanchang,28.6842,115.8872,China,CN,CHN,Jiangxi,admin,9373000,Asia
+30,Nanjing,Nanjing,32.05,118.7667,China,CN,CHN,Jiangsu,admin,7496000,Asia
+31,Nanyang,Nanyang,32.9987,112.5292,China,CN,CHN,Henan,,12010000,Asia
+32,Ningbo,Ningbo,29.875,121.5492,China,CN,CHN,Zhejiang,minor,7639000,Asia
+33,Qingdao,Qingdao,36.1167,120.4,China,CN,CHN,Shandong,minor,5775000,Asia
+34,Shanghai,Shanghai,31.2283,121.4726,China,CN,CHN,Shanghai,admin,22120000,Asia
+35,Shenyang,Shenyang,41.8039,123.4258,China,CN,CHN,Liaoning,admin,7105000,Asia
+36,Shenzhen,Shenzhen,22.535,114.054,China,CN,CHN,Guangdong,minor,16157000,Asia
+37,Shijiazhuang,Shijiazhuang,38.0422,114.5086,China,CN,CHN,Hebei,admin,10784600,Asia
+38,Tianjin,Tianjin,39.1467,117.2056,China,CN,CHN,Tianjin,admin,10800000,Asia
+39,Wuhan,Wuhan,30.5872,114.2881,China,CN,CHN,Hubei,admin,8962000,Asia
+40,Xi’an,Xi'an,34.2667,108.9,China,CN,CHN,Shaanxi,admin,7135000,Asia
+41,Delhi,Delhi,28.66,77.23,India,IN,IND,Delhi,admin,29617000,Asia
+42,Kolkāta,Kolkata,22.5411,88.3378,India,IN,IND,West Bengal,admin,1335084,Asia
+43,Jakarta,Jakarta,-6.2146,106.8451,Indonesia,ID,IDN,Jakarta,primary,34540000,Asia
+44,Tehran,Tehran,35.7,51.4167,Iran,IR,IRN,Tehrān,primary,13633000,Asia
+45,Nagoya,Nagoya,35.1167,136.9333,Japan,JP,JPN,Aichi,admin,9113000,Asia
+46,saka,Osaka,34.75,135.4601,Japan,JP,JPN,saka,admin,14977000,Asia
+47,Tokyo,Tokyo,35.6897,139.6922,Japan,JP,JPN,Tōkyō,primary,37977000,Asia
+48,Seoul,Seoul,37.56,126.99,Korea,,,,primary,21794000,Asia
+49,Kuala Lumpur,Kuala Lumpur,3.1478,101.6953,Malaysia,MY,MYS,Kuala Lumpur,primary,8285000,Asia
+50,Karachi,Karachi,24.86,67.01,Pakistan,PK,PAK,Sindh,admin,14835000,Asia
+51,Lahore,Lahore,31.5497,74.3436,Pakistan,PK,PAK,Punjab,admin,11021000,Asia
+52,Manila,Manila,14.6,120.9833,Philippines,PH,PHL,Manila,primary,23088000,Asia
+53,Singapore,Singapore,1.3403,103.8384,Singapore,SG,SGP,Central Singapore,primary,5745000,Asia
+54,Bangkok,Bangkok,13.75,100.5167,Thailand,TH,THA,Krung Thep Maha Nakhon,primary,790017,Asia
+55,Istanbul,Istanbul,41.022536,28.989319,Turkey,TR,TUR,Istanbul,primary,15460000,Asia
+56,Hanoi,Hanoi,21.0245,105.8412,Vietnam,VN,VNM,Hà Ni,primary,7785000,Asia
+57,Ho Chi Minh City,Ho Chi Minh City,10.8167,106.6333,Vietnam,VN,VNM,H Chí Minh,admin,13312000,Asia
+58,Brisbane,Brisbane,-27.4678,153.0281,Australia,AU,AUS,Queensland,admin,2514184,Australia
+59,Melbourne,Melbourne,-37.8136,144.9631,Australia,AU,AUS,Victoria,admin,5078193,Australia
+60,Sydney,Sydney,-33.865,151.2094,Australia,AU,AUS,New South Wales,admin,5312163,Australia
+61,Vienna,Vienna,48.2083,16.3731,Austria,AT,AUT,Wien,primary,1911191,Europe
+62,Minsk,Minsk,53.9022,27.5618,Belarus,BY,BLR,Minsk,primary,2009786,Europe
+63,Brussels,Brussels,50.8333,4.3333,Belgium,BE,BEL,Brussels-Capital Region,primary,1743000,Europe
+64,Sofia,Sofia,42.6979,23.3217,Bulgaria,BG,BGR,Sofia-Grad,primary,1355142,Europe
+65,Zagreb,Zagreb,45.8,15.95,Croatia,HR,HRV,Zagreb,primary,790017,Europe
+66,Prague,Prague,50.0833,14.4167,Czechia,CZ,CZE,Praha,primary,1335084,Europe
+67,Paris,Paris,48.8566,2.3522,France,FR,FRA,le-de-France,primary,11020000,Europe
+68,Berlin,Berlin,52.5167,13.3833,Germany,DE,DEU,Berlin,primary,3644826,Europe
+69,Cologne,Cologne,50.9422,6.9578,Germany,DE,DEU,North Rhine-Westphalia,,1085664,Europe
+70,Hamburg,Hamburg,53.55,10,Germany,DE,DEU,Hamburg,admin,1841179,Europe
+71,Munich,Munich,48.1372,11.5755,Germany,DE,DEU,Bavaria,admin,1471508,Europe
+72,Athens,Athens,37.9842,23.7281,Greece,GR,GRC,Attikí,primary,664046,Europe
+73,Budapest,Budapest,47.4983,19.0408,Hungary,HU,HUN,Budapest,primary,1752286,Europe
+74,Dublin,Dublin,53.3497,-6.2603,Ireland,IE,IRL,Dublin,primary,1173179,Europe
+75,Milan,Milan,45.4669,9.19,Italy,IT,ITA,Lombardy,admin,1366180,Europe
+76,Rome,Rome,41.8931,12.4828,Italy,IT,ITA,Lazio,primary,2872800,Europe
+77,Amsterdam,Amsterdam,52.3667,4.8833,Netherlands,NL,NLD,Noord-Holland,primary,862965,Europe
+78,The Hague,The Hague,52.0767,4.2986,Netherlands,NL,NLD,Zuid-Holland,primary,1406000,Europe
+79,Oslo,Oslo,59.9111,10.7528,Norway,NO,NOR,Oslo,primary,693494,Europe
+80,Warsaw,Warsaw,52.2167,21.0333,Poland,PL,POL,Mazowieckie,primary,1790658,Europe
+81,Bucharest,Bucharest,44.4,26.0833,Romania,RO,ROU,Bucureti,primary,1883425,Europe
+82,Kazan,Kazan,55.7908,49.1144,Russia,RU,RUS,Tatarstan,admin,1243500,Europe
+83,Moscow,Moscow,55.7558,37.6178,Russia,RU,RUS,Moskva,primary,17125000,Europe
+84,Perm,Perm,58.0139,56.2489,Russia,RU,RUS,Permskiy Kray,admin,1048005,Europe
+85,Saint Petersburg,Saint Petersburg,59.95,30.3167,Russia,RU,RUS,Sankt-Peterburg,admin,5351935,Europe
+86,Ufa,Ufa,54.7333,55.9667,Russia,RU,RUS,Bashkortostan,admin,1115560,Europe
+87,Belgrade,Belgrade,44.8167,20.4667,Serbia,RS,SRB,Beograd,primary,1378682,Europe
+88,Barcelona,Barcelona,41.3825,2.1769,Spain,ES,ESP,Catalonia,admin,4588000,Europe
+89,Madrid,Madrid,40.4167,-3.7167,Spain,ES,ESP,Madrid,primary,6026000,Europe
+90,Sevilla,Sevilla,37.39,-5.99,Spain,ES,ESP,Andalusia,admin,1107000,Europe
+91,Kyiv,Kyiv,50.45,30.5236,Ukraine,UA,UKR,Kyyiv,primary,2963199,Europe
+92,Birmingham,Birmingham,52.48,-1.9025,United Kingdom,GB,GBR,Birmingham,,2897303,Europe
+93,Birstall,Birstall,52.6736,-1.12,United Kingdom,GB,GBR,Leicester,,1424216,Europe
+94,Leeds,Leeds,53.7997,-1.5492,United Kingdom,GB,GBR,Leeds,,1901934,Europe
+95,London,London,51.5072,-0.1275,United Kingdom,GB,GBR,London,primary,10979000,Europe
+96,Manchester,Manchester,53.4794,-2.2453,United Kingdom,GB,GBR,Manchester,,2705000,Europe
+97,Newcastle,Newcastle,55.0077,-1.6578,United Kingdom,GB,GBR,Newcastle upon Tyne,,1650000,Europe
+98,Montréal,Montreal,45.5089,-73.5617,Canada,CA,CAN,Quebec,,3519595,North America
+99,Toronto,Toronto,43.7417,-79.3733,Canada,CA,CAN,Ontario,,5429524,North America
+100,Vancouver,Vancouver,49.25,-123.1,Canada,CA,CAN,British Columbia,,2264823,North America
+101,Santo Domingo,Santo Domingo,18.4764,-69.8933,Dominican Republic,DO,DOM,Ozama,primary,2581827,North America
+102,Guatemala City,Guatemala City,14.6099,-90.5252,Guatemala,GT,GTM,Guatemala,primary,2450212,North America
+103,Guadalajara,Guadalajara,20.6767,-103.3475,Mexico,MX,MEX,Jalisco,admin,5253000,North America
+104,Mexico City,Mexico City,19.4333,-99.1333,Mexico,MX,MEX,Ciudad de México,primary,20996000,North America
+105,Monterrey,Monterrey,25.6667,-100.3,Mexico,MX,MEX,Nuevo León,admin,4295000,North America
+106,Tijuana,Tijuana,32.525,-117.0333,Mexico,MX,MEX,Baja California,minor,2384609,North America
+107,Atlanta,Atlanta,33.7627,-84.4224,United States,US,USA,Georgia,admin,5449398,North America
+108,Boston,Boston,42.3188,-71.0846,United States,US,USA,Massachusetts,admin,4688346,North America
+109,Chicago,Chicago,41.8373,-87.6862,United States,US,USA,Illinois,,8604203,North America
+110,Dallas,Dallas,32.7936,-96.7662,United States,US,USA,Texas,,5743938,North America
+111,Denver,Denver,39.7621,-104.8759,United States,US,USA,Colorado,admin,2876625,North America
+112,Detroit,Detroit,42.3834,-83.1024,United States,US,USA,Michigan,,3506126,North America
+113,Houston,Houston,29.7863,-95.3889,United States,US,USA,Texas,,5464251,North America
+114,Los Angeles,Los Angeles,34.0894,-118.3123,United States,US,USA,California,,12750807,North America
+115,Miami,Miami,25.7839,-80.2102,United States,US,USA,Florida,,6445545,North America
+116,Minneapolis,Minneapolis,44.9635,-93.2678,United States,US,USA,Minnesota,,2977172,North America
+117,New York,New York,40.6943,-73.9249,United States,US,USA,New York,,18713220,North America
+118,Philadelphia,Philadelphia,40.0077,-75.1339,United States,US,USA,Pennsylvania,,5649300,North America
+119,Phoenix,Phoenix,33.5722,-112.0891,United States,US,USA,Arizona,admin,4219697,North America
+120,San Diego,San Diego,32.8312,-117.1225,United States,US,USA,California,,3220118,North America
+121,San Francisco,San Francisco,37.7562,-122.443,United States,US,USA,California,,3592294,North America
+122,Seattle,Seattle,47.6211,-122.3244,United States,US,USA,Washington,,3789215,North America
+123,Tampa,Tampa,27.9942,-82.4451,United States,US,USA,Florida,,2908063,North America
+124,Washington,Washington,38.9047,-77.0163,United States,US,USA,District of Columbia,primary,5379184,North America
+125,Buenos Aires,Buenos Aires,-34.5997,-58.3819,Argentina,AR,ARG,Buenos Aires,primary,16157000,South America
+126,La Paz,La Paz,-16.4942,-68.1475,Bolivia,BO,BOL,La Paz,primary,2867504,South America
+127,Santa Cruz,Santa Cruz,-17.7892,-63.1975,Bolivia,BO,BOL,Santa Cruz,admin,3151676,South America
+128,Belo Horizonte,Belo Horizonte,-19.9281,-43.9419,Brazil,BR,BRA,Minas Gerais,admin,5159000,South America
+129,Brasília,Brasilia,-15.7939,-47.8828,Brazil,BR,BRA,Distrito Federal,primary,3015268,South America
+130,Fortaleza,Fortaleza,-3.7275,-38.5275,Brazil,BR,BRA,Ceará,admin,2452185,South America
+131,Rio de Janeiro,Rio de Janeiro,-22.9083,-43.1964,Brazil,BR,BRA,Rio de Janeiro,admin,12272000,South America
+132,So Paulo,Sao Paulo,-23.5504,-46.6339,Brazil,BR,BRA,So Paulo,admin,22046000,South America
+133,Santiago,Santiago,-33.45,-70.6667,Chile,CL,CHL,Región Metropolitana,primary,7007000,South America
+134,Bogotá,Bogota,4.6126,-74.0705,Colombia,CO,COL,Bogotá,primary,9464000,South America
+135,Medellín,Medellin,6.2447,-75.5748,Colombia,CO,COL,Antioquia,admin,2529403,South America
+136,Quito,Quito,-0.2186,-78.5097,Ecuador,EC,ECU,Pichincha,primary,2011388,South America
+137,Lima,Lima,-12.05,-77.0333,Peru,PE,PER,Lima,primary,9848000,South America
+138,Nizhniy Novgorod,Nizhniy Novgorod,56.3269,44.0075,Russia,RU,RUS,Nizhegorodskaya Oblast�?admin,1264075,1643012126,
+139,Rostov,Rostov,47.2333,39.7167,Russia,RU,RUS,Rostovskaya Oblast�?admin,1125299,1643013518,
+140,Samara,Samara,53.1833,50.1167,Russia,RU,RUS,Samarskaya Oblast�?admin,1169719,1643205757,
+141,Volgograd,Volgograd,48.7086,44.5147,Russia,RU,RUS,Volgogradskaya Oblast�?admin,1015586,1643577201,
+142,Voronezh,Voronezh,51.6717,39.2106,Russia,RU,RUS,Voronezhskaya Oblast�?admin,1047549,1643811064,
+143,Dnipro,Dnipro,48.45,34.9833,Ukraine,UA,UKR,Dnipropetrovs’ka Oblast�?admin,1002111,1804152933,
+144,Odesa,Odesa,46.4775,30.7326,Ukraine,UA,UKR,Odes’ka Oblast�?admin,1017699,1804178102,
