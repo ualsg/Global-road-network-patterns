@@ -4,7 +4,7 @@ This repository is the official implementation of [Global Urban Road Network Pat
 
 Apart from leveraging online data from OpenStreetMap (OSM), `CRHD generator v2` enables using local road network data to generate CRHDs, which is useful for regions with unfavorable quality of OSM street data. `Morphoindex generator v2` adds the function of predicting the probabilities of road network patterns at multiple scales (0.5km, 1km, 2km). The CRHD operations mentioned in the paper are embedded in the module, so only the CRHDs at mid scale (1km resolusion) should be prepared in advance. 
 
-You could find the list of cities of interest and the outcome data of their multiscale road network patterns at [figshare](https://doi.org/10.6084/m9.figshare.19375103.v2).
+You could find the list of cities of interest and the outcome data of their multiscale road network patterns at [figshare](https://doi.org/10.6084/m9.figshare.19375103.v3).
 
 ## Requirements
 
