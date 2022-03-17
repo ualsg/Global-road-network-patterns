@@ -1,6 +1,6 @@
 # Global Urban Road Network Patterns
 
-This repository is the official implementation of [Global Urban Road Network Patterns](#add#). It includes the codes of the custom methods (written in Python) involved in the paper. We provide two major modules, `CRHD generator v2` and `Morphoindex generator v2`, which are the upgraded verisons of those proposed in [Classification of Urban Morphology with Deep Learning: Application on Urban Vitality](https://arxiv.org/abs/2105.09908). Functions of previous version are all kept and the tutorials could be found at [Road-Network-Classification](https://github.com/ualsg/Road-Network-Classification). 
+This repository is the official implementation of [Global Urban Road Network Patterns](#ADD#). It includes the codes of the custom methods (written in Python) involved in the paper. We provide two major modules, `CRHD generator v2` and `Morphoindex generator v2`, which are the upgraded verisons of those proposed in [Classification of Urban Morphology with Deep Learning: Application on Urban Vitality](https://arxiv.org/abs/2105.09908). Functions of previous version are all kept and the tutorials could be found at [Road-Network-Classification](https://github.com/ualsg/Road-Network-Classification). 
 
 Apart from leveraging online data from OpenStreetMap (OSM), `CRHD generator v2` enables using local road network data to generate CRHDs, which is useful for regions with unfavorable quality of OSM street data. `Morphoindex generator v2` adds the function of predicting the probabilities of road network patterns at multiple scales (0.5km, 1km, 2km). The CRHD operations mentioned in the paper are embedded in the module, so only the CRHDs at mid scale (1km resolusion) should be prepared in advance.
 
@@ -31,33 +31,16 @@ You can download our pretrained models here:
 - [Model_v2_6class](https://drive.google.com/file/d/1J7_LlgmuXiJkAD3uuEgmf5x96x1SJZSO/view?usp=sharing) trained with ResNet-34 architecture, learning rate as 0.00005, batch size as 16, and data augmentation on. Details of the training hyperparameters are available in the training codes in 'train' file. This model (used in this paper) supports six-class classification of road network patterns.
 
 
-## Results
-
-Our model achieves the following performance on the testing set:
-
-**Confusion matrix and ROC curves:**
-
-![image](https://github.com/ualsg/Road-Network-Classification/blob/main/images/results.png)
-
 ## Paper
 
-A [paper](https://doi.org/10.1016/j.compenvurbsys.2021.101706) about the work is available.
+A [preprint](#ADD#) about the work is available.
 
 If you use this work in a scientific context, please cite this article.
 
-Chen W, Wu AN, Biljecki F (2021): Classification of Urban Morphology with Deep Learning: Application on Urban Vitality. Computers, Environment and Urban Systems 90: 101706.
+xxxx
 
 ```
-@article{2021_ceus_dl_morphology,
-  author = {Wangyang Chen and Abraham Noah Wu and Filip Biljecki},
-  doi = {10.1016/j.compenvurbsys.2021.101706},
-  journal = {Computers, Environment and Urban Systems},
-  pages = {101706},
-  title = {Classification of Urban Morphology with Deep Learning: Application on Urban Vitality},
-  url = {https://doi.org/10.1016/j.compenvurbsys.2021.101706},
-  volume = {90},
-  year = 2021
-}
+xxx
 ```
 
 ## Contact
