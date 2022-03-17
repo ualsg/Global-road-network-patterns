@@ -1,8 +1,8 @@
-# Classification of Urban Morphology with Deep Learning: Application on Urban Vitality
+# Global Urban Road Network Patterns
 
-![Graphical Abstract](./grabs.jpg)
+This repository is the official implementation of [Global Urban Road Network Patterns](#add#). It includes the major codes (written in Python) involved in the paper. We provide two major modules, `CRHD generator v2` and `Morphoindex generator v2`, which are the upgraded verisons of those proposed in [Classification of Urban Morphology with Deep Learning: Application on Urban Vitality](https://arxiv.org/abs/2105.09908). Functions and tutorials of the previous version could be found at [Road-Network-Classification](https://github.com/ualsg/Road-Network-Classification). 
 
-This repository is the official implementation of [Classification of Urban Morphology with Deep Learning: Application on Urban Vitality](https://arxiv.org/abs/2105.09908). It includes the major codes (written in Python) involved in the paper. We also offer some tractable tutorials in Notebook to show how to use our two modules, `CRHD generator` and `Morphoindex generator`. `CRHD generator` can automatically produce Colored Road Hierarchy Diagram (CRHD) for a given urban area. `Morphoindex generator` can automatically generate both traditional morphological indices based on built environment Shapefiles and road network class probabilities based on our road network classification model.
+Apart from leveraging online data from OpenStreetMap (OSM), `CRHD generator v2` enables using local road network data to generate CRHDs, which is useful for regions with unfavorable quality of OSM street data. `Morphoindex generator v2` adds the function of predicting the probabilities of road network patterns at multiple scales (0.5km, 1km, 2km). The CRHD operations mentioned in the paper are embedded in the module, so only the CRHDs at mid scale (1km resolusion) should be prepared   can automatically generate both traditional morphological indices based on built environment Shapefiles and road network class probabilities based on our road network classification model.
 
 ## Requirements
 
