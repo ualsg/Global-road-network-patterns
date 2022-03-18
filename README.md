@@ -33,17 +33,6 @@ You can download our pretrained models here:
 - [Model_v2_6class](https://drive.google.com/file/d/1J7_LlgmuXiJkAD3uuEgmf5x96x1SJZSO/view?usp=sharing) (used in this paper) trained with ResNet-34 architecture, learning rate as 0.00005, batch size as 16, and data augmentation on. Details of the training hyperparameters are available in the training codes in 'train' file. This model supports six-class classification of road network patterns.
 
 
-## Paper
-
-A [preprint](#ADD#) about the work is available.
-
-If you use this work in a scientific context, please cite this article.
-
-xxxx
-
-```
-xxx
-```
 
 ## Contact
 
