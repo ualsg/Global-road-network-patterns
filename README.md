@@ -32,7 +32,25 @@ You can download our pretrained models here:
 - [Model_v1_4class](https://drive.google.com/file/d/1N7T9lN4TL5r8EqduZfWv22ROZO4zp_FN/view?usp=sharing) trained with ResNet-34 architecture, learning rate as 0.0005, and batch size as 2. This model supports four-class classification of road network patterns.
 - [Model_v2_6class](https://drive.google.com/file/d/1J7_LlgmuXiJkAD3uuEgmf5x96x1SJZSO/view?usp=sharing) (used in this paper) trained with ResNet-34 architecture, learning rate as 0.00005, batch size as 16, and data augmentation on. Details of the training hyperparameters are available in the training codes in 'train' file. This model supports six-class classification of road network patterns.
 
+## Paper
 
+A [paper](https://doi.org/10.1016/j.landurbplan.2023.104901) about the work is available.
+
+If you use this work in a scientific context, please cite this article.
+
+Chen, W., Huang, H., Liao, S., Gao, F., & Biljecki, F. (2024). Global urban road network patterns: Unveiling multiscale planning paradigms of 144 cities with a novel deep learning approach. Landscape and Urban Planning, 241, 104901.
+
+```
+@article{chen2024global,
+  title={Global urban road network patterns: Unveiling multiscale planning paradigms of 144 cities with a novel deep learning approach},
+  author={Chen, Wangyang and Huang, Huiming and Liao, Shunyi and Gao, Feng and Biljecki, Filip},
+  journal={Landscape and Urban Planning},
+  volume={241},
+  pages={104901},
+  year={2024},
+  publisher={Elsevier}
+}
+```
 
 ## Contact
 
